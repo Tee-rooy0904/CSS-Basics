@@ -1,0 +1,58 @@
+/* Banner styles */
+.banner {
+    background-color: #8B4513;
+    color: black;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.banner-text {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0;
+}
+
+/* Navigation menu */
+.nav-menu {
+    background-color: #DEB887;
+    padding: 15px 0;
+    text-align: center;
+}
+
+.nav-menu a {
+    color: #2E8B57;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 18px;
+}
+
+.nav-menu a:hover {
+    color: #1B5E20;
+    text-decoration: underline;
+}
+
+/* Content section */
+.content {
+    background-color: #DEB887;
+    padding: 20px;
+    min-height: 300px;
+}
+
+.paragraph-header {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.content p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #DEB887;
+    font-size: 14px;
+}
